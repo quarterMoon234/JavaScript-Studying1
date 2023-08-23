@@ -1,1 +1,1 @@
-# JavaScript-Studing1
+파일 세개 전부 넣어야 작동합니다.
